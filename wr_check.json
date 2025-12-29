@@ -2,11 +2,15 @@
   {
     "username": "wr4ma",
     "password": "respect988",
+    "Type": "Owner",
+    "Photo": "https://drive.google.com/file/d/1isCorTDcZmPxOIt-k6XI6wYzZhleXdmw/view?usp=sharing",
     "expiry": "2039-12-31"
   },
   {
-    "username": "client01",
-    "password": "clientpassword123",
+    "username": "asep",
+    "password": "cinambo123",
+    "Type": "Regular",
+    "Photo": "https://drive.google.com/file/d/1KxWx9NM3mn-bHzLIiDSBTlPg0kSqns78/view?usp=sharing",
     "expiry": "2024-10-20"
   }
 ]
