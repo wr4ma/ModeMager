@@ -2,15 +2,15 @@
   {
     "username": "wr4ma",
     "password": "respect988",
-    "Type": "Owner",
-    "Photo": "https://drive.google.com/file/d/1isCorTDcZmPxOIt-k6XI6wYzZhleXdmw/view?usp=sharing",
-    "expiry": "2039-12-31"
+    "expiry": "2025-12-31",
+    "type": "Administrator",
+    "avatar": "https://drive.google.com/file/d/1isCorTDcZmPxOIt-k6XI6wYzZhleXdmw/view?usp=sharing"
   },
   {
     "username": "asep",
-    "password": "cinambo123",
-    "Type": "Regular",
-    "Photo": "https://drive.google.com/file/d/1KxWx9NM3mn-bHzLIiDSBTlPg0kSqns78/view?usp=sharing",
-    "expiry": "2024-10-20"
+    "password": "cinambodc",
+    "expiry": "2024-10-20",
+    "type": "Premium User",
+    "avatar": "https://drive.google.com/file/d/1KxWx9NM3mn-bHzLIiDSBTlPg0kSqns78/view?usp=sharing"
   }
 ]
