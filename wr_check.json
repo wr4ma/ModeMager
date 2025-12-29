@@ -12,10 +12,10 @@
     "expiry": "15-01-2026",
     "type": "User",
     "avatar": "https://i.ibb.co.com/9mwSNhF0/image.png"
-  }
+  },
   {
-    "username": "user",
-    "password": "password",
+    "username": " ",
+    "password": " ",
     "expiry": "15-01-2016",
     "type": "User",
     "avatar": ""
