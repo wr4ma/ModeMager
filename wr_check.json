@@ -16,15 +16,22 @@
   {
     "username": "raka",
     "password": "asdzxc321",
-    "expiry": "30-01-2026",
+    "expiry": "10-02-2026",
     "type": "User",
     "avatar": "https://i.ibb.co.com/MxsGNrq9/Raka-SPX-6289603719761-s-whatsapp-net-20251229-182456.jpg"
   },
   {
     "username": "ikbal",
     "password": "admin321",
-    "expiry": "30-01-2026",
+    "expiry": "10-02-2026",
     "type": "User",
     "avatar": "https://i.ibb.co.com/3QXTWTS/Ikbal-Adm-SPX-6285156254921-s-whatsapp-net-20251229-112656.jpg"
+  },
+{
+    "username": "odhe",
+    "password": "admin321",
+    "expiry": "10-02-2026",
+    "type": "User",
+    "avatar": "https://img.freepik.com/premium-vector/default-avatar-profile-icon-social-media-user-image-gray-avatar-icon-blank-profile-silhouette-vector-illustration_561158-3485.jpg?w=1060"
   }
 ]
