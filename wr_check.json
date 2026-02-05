@@ -33,5 +33,12 @@
     "expiry": "10-02-2026",
     "type": "User",
     "avatar": "https://img.freepik.com/premium-vector/default-avatar-profile-icon-social-media-user-image-gray-avatar-icon-blank-profile-silhouette-vector-illustration_561158-3485.jpg"
+  },
+{
+    "username": "asep",
+    "password": "admin124",
+    "expiry": "10-03-2026",
+    "type": "Lord",
+    "avatar": "https://i.ibb.co.com/nNQyXqzZ/IMG-20260205-145624.jpg"
   }
 ]
